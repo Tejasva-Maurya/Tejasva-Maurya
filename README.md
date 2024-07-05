@@ -10,7 +10,7 @@ Aspiring Data Scientist from India.
 - 👯 I’m looking to collaborate on innovative data-driven projects
 - 💬 Ask me about Python, Data Science, or any tech-related stuff
 - 📫 How to reach me: [mauryatejasva512004@gmail.com](mailto:mauryatejasva512004@gmail.com)
-- ⚡ Fun fact: I love exploring new data visualization tools
+- ⚡ Fun fact: I love exploring new data visualization tools and watching anime
 
 ## 🛠️ Skills
 - **Languages**: Python, R, JavaScript, HTML, CSS
@@ -22,10 +22,17 @@ Aspiring Data Scientist from India.
 
 ## 📊 GitHub Stats
 ![Tejasva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejasva-Maurya&show_icons=true&theme=radical)
-
 ![Tejasva's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejasva-Maurya&theme=radical)
-
 ![Tejasva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasva-Maurya&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![Tejasva's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejasva-Maurya&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
+## 📈 Contribution Graph
+[![Tejasva's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Tejasva-Maurya&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🧮 Visitor Count
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Tejasva-Maurya.Tejasva-Maurya)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasva-maurya)
@@ -37,6 +44,7 @@ Aspiring Data Scientist from India.
 - ![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🐱‍💻 Projects
+- [Virtual Desktop Assistant](https://github.com/Tejasva-Maurya/virtual-desktop-assistant): 
 - [Prediction of Graduate Admission](https://github.com/Tejasva-Maurya/graduate-admission-prediction)
 - [Mall Customer Segmentation](https://github.com/Tejasva-Maurya/mall-customer-segmentation)
 - [Debunking the Myth of Early Death in Left-Handers](https://github.com/Tejasva-Maurya/left-handers-myth)
