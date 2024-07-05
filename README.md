@@ -29,10 +29,10 @@ Aspiring Data Scientist from India.
 ![Tejasva's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejasva-Maurya&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ## 📈 Contribution Graph
-[![Tejasva's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Tejasva-Maurya&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tejasva's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tejasva-Maurya&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🧮 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Tejasva-Maurya.Tejasva-Maurya)
+![Visitor Count](https://komarev.com/ghpvc/?username=Tejasva-Maurya&color=blueviolet&style=flat)
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasva-maurya)
@@ -44,7 +44,15 @@ Aspiring Data Scientist from India.
 - ![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🐱‍💻 Projects
-- [Virtual Desktop Assistant](https://github.com/Tejasva-Maurya/virtual-desktop-assistant): 
+- [Virtual Desktop Assistant](https://github.com/Tejasva-Maurya/virtual-desktop-assistant): An AI-powered assistant developed using Python. It can perform a variety of tasks, including:
+  - Voice commands with Speech Recognition
+  - Text-to-Speech responses
+  - Time-based greetings and responses
+  - Wikipedia search
+  - Web browsing
+  - Opening files and applications
+  - Playing music and movies
+  - Playing games like Snake, Water, and Gun
 - [Prediction of Graduate Admission](https://github.com/Tejasva-Maurya/graduate-admission-prediction)
 - [Mall Customer Segmentation](https://github.com/Tejasva-Maurya/mall-customer-segmentation)
 - [Debunking the Myth of Early Death in Left-Handers](https://github.com/Tejasva-Maurya/left-handers-myth)
