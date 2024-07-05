@@ -29,7 +29,7 @@ Aspiring Data Scientist from India.
 ![Tejasva's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tejasva-Maurya&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ## 📈 Contribution Graph
-![Tejasva's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tejasva-Maurya&theme=redical).
+![Tejasva's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejasva-Maurya&theme=redical).
 
 ## 🧮 Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=Tejasva-Maurya&color=blueviolet&style=flat)
