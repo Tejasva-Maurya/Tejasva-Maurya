@@ -49,26 +49,26 @@ Aspiring Data Scientist from India.
 
 ## 🐱‍💻 Projects
 - [Virtual Desktop Assistant](https://github.com/Tejasva-Maurya/virtual-desktop-assistant):-
-- Developed a sophisticated AI virtual assistant using Python.
-- Key Libraries: Speech Recognition, Text-to-Speech (pyttsx3), Datetime, Wikipedia, Webbrowser, OS.
-- Features: Searching Wikipedia, browsing the web, opening applications, playing music and movies, checking the time, and playing games like Snake, Water, and Gun.
+  - Developed a sophisticated AI virtual assistant using Python.
+  - Key Libraries: Speech Recognition, Text-to-Speech (pyttsx3), Datetime, Wikipedia, Webbrowser, OS.
+  - Features: Searching Wikipedia, browsing the web, opening applications, playing music and movies, checking the time, and playing games like Snake, Water, and Gun.
 - [Prediction of Graduate Admission](https://github.com/Tejasva-Maurya/graduate-admission-prediction) :-
-- Developed a machine learning model to predict graduate admissions for Indian students.
-- Analyzed GRE scores, TOEFL scores, university rankings, SOP quality, and LOR strength.
-- Goal: Assist students in estimating their chances of admission to prestigious universities.
+  - Developed a machine learning model to predict graduate admissions for Indian students.
+  - Analyzed GRE scores, TOEFL scores, university rankings, SOP quality, and LOR strength.
+  - Goal: Assist students in estimating their chances of admission to prestigious universities.
 - [Mall Customer Segmentation](https://github.com/Tejasva-Maurya/mall-customer-segmentation) :-
-- Applied K-Means clustering to segment mall customers based on shopping data.
-- Targeted marketing strategies and improved customer service.
-- Explored customer behaviors and patterns for actionable insights.
+  - Applied K-Means clustering to segment mall customers based on shopping data.
+  - Targeted marketing strategies and improved customer service.
+  - Explored customer behaviors and patterns for actionable insights.
 - [Debunking the Myth of Early Death in Left-Handers](https://github.com/Tejasva-Maurya/left-handers-myth) :-
-- Analyzed data to investigate the myth of early death in left-handers.
-- Skills Gained: Proficiency in Python, pandas, Bayesian statistics, and data visualization.
-- Professional Growth: Enhanced understanding of data manipulation and statistical methodologies.
-- Key Insight: Debunked the myth; no significant lifespan difference between left and right-handers.
+  - Analyzed data to investigate the myth of early death in left-handers.
+  - Skills Gained: Proficiency in Python, pandas, Bayesian statistics, and data visualization.
+  - Professional Growth: Enhanced understanding of data manipulation and statistical methodologies.
+  - Key Insight: Debunked the myth; no significant lifespan difference between left and right-handers.
 - **API Projects and Experience**
-- [Text-to-Speech and Speech-to-Text Applications](https://github.com/Tejasva-Maurya/text-to-speech) :- Leveraged IBM Watson services to create applications that convert text to speech and vice versa.
-- [Interactive Chatbot with IBM Watson](https://github.com/Tejasva-Maurya/chatbot-ibm-watson) :- Built an interactive chatbot for seamless user interactions.
-- [Google APIs Integration Projects](https://github.com/Tejasva-Maurya/google-apis-integration) :- Utilized Google Drive API, Gemini API, and YouTube API for various projects.
+  - [Text-to-Speech and Speech-to-Text Applications](https://github.com/Tejasva-Maurya/text-to-speech) :- Leveraged IBM Watson services to create applications that convert text to speech and vice versa.
+  - [Interactive Chatbot with IBM Watson](https://github.com/Tejasva-Maurya/chatbot-ibm-watson) :- Built an interactive chatbot for seamless user interactions.
+  - [Google APIs Integration Projects](https://github.com/Tejasva-Maurya/google-apis-integration) :- Utilized Google Drive API, Gemini API, and YouTube API for various projects.
 
 ## 🎮 Anime & Tech Interests
 <p align="center">
