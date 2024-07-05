@@ -1,45 +1,38 @@
-# Tejasva Maurya: Data Science Portfolio 🚀
+# Hey there! 👋
 
-Welcome to my data science journey! I'm Tejasva Maurya, a passionate explorer of data realms. Let's dive into my projects that showcase my expertise in data science, big data, and cloud computing. 🌟
+I'm Tejasva Maurya!
 
-## About Me
-- 📊 **Data Analysis & Big Data**: Proficient in Python, Spark, Scala, HDFS, Hadoop, YARN, and MapReduce.
-- 🌐 **Cloud Computing**: Adept with Docker, Kubernetes, and Jira for error detection and issue tracking.
-- 💻 **Full-Stack Development**: Experienced in Flask, HTML, CSS, and JavaScript.
-- 🤖 **AI & Machine Learning**: Practiced with IBM Cloud services like Watson Studio.
-- 🎨 **Design Thinking**: Solving real-world problems creatively.
+## 🚀 About Me
+Aspiring Data Scientist from India.
 
-## Featured Projects
+- 🔭 I’m currently working on exciting data science projects
+- 🌱 I’m currently learning advanced machine learning techniques
+- 👯 I’m looking to collaborate on innovative data-driven projects
+- 💬 Ask me about Python, Data Science, or any tech-related stuff
+- 📫 How to reach me: [mauryatejasva512004@gmail.com](mailto:mauryatejasva512004@gmail.com)
+- ⚡ Fun fact: I love exploring new data visualization tools
 
-### 1. **Prediction of Graduate Admission from an Indian Perspective**
-   - Developed a machine learning model to predict graduate admissions for Indian students.
-   - Analyzed GRE scores, TOEFL scores, university rankings, SOP quality, and LOR strength.
-   - Goal: Assist students in estimating their chances of admission to prestigious universities.
+## 🛠️ Skills
+- **Languages**: Python, R, JavaScript, HTML, CSS
+- **Data Science**: Data Analysis, Big Data Analytics, Machine Learning, AI
+- **Tools**: SQL, Tableau, IBM Watson Studio, Docker, Kubernetes
+- **Big Data**: Hadoop, Spark, Pig, Hive, Yarn, HDFS, MapReduce, Sqoop, Zookeeper
+- **Cloud**: Cloudant, IBM Cloud Services
+- **Dev Tools**: Flask, Design Thinking, JIRA
 
-### 2. **Mall Customer Segmentation by Cluster Analysis**
-   - Applied K-Means clustering to segment mall customers based on shopping data.
-   - Targeted marketing strategies and improved customer service.
-   - Explore customer behaviors and patterns for actionable insights.
+## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasva-maurya)
+[![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejasva-Maurya)
 
-### 3. **Debunking the Myth of Early Death in Left-Handers**
-   - Analyzed data to investigate the myth of early death in left-handers.
-   - Skills Gained: Proficiency in Python, pandas, Bayesian statistics, and data visualization.
-   - Professional Growth: Enhanced understanding of data manipulation and statistical methodologies.
-   - Key Insight: Debunked the myth; no significant lifespan difference between left and right-handers.
+## 🖥️ Workspace Setup
+- ![i7-10700K](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+- ![RTX 2060](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- ![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 4. **API Projects and Experience**
-   - **Text-to-Speech and Speech-to-Text**: Leveraged IBM Watson services to create applications that convert text to speech and vice versa.
-   - **Chatbot using IBM Cloud Watson Assistant**: Built an interactive chatbot for seamless user interactions.
-   - **Google APIs Integration**: Utilized Google Drive API, Gemini API, and YouTube API for various projects.
-
-## IBM Services
-- **IBM Watson Studio**: Empowers data scientists, developers, and analysts to build, run, and manage AI models. It unites teams, automates AI lifecycles, and speeds time to value on an open multicloud architecture.
-- **IBM Cloud Pak for Data**: A modular set of integrated software components for data analysis, organization, and management. It simplifies ModelOps lifecycles, runs on Red Hat OpenShift, and supports data governance, security, and integration.
-- **WatsonX.ai**: The all-new enterprise studio combining traditional machine learning with generative AI capabilities powered by foundation models.
-
-## Let’s Connect
-📫 Reach me on LinkedIn https://www.linkedin.com/in/tejasva-maurya/
-
-🔍 Explore my GitHub Repositories
-
-Remember, data science isn't just about algorithms; it's about solving real-world problems and making an impact. Let's continue this exciting journey! 🚀
+## 🐱‍💻 Projects
+- [Prediction of Graduate Admission](https://github.com/Tejasva-Maurya/graduate-admission-prediction)
+- [Mall Customer Segmentation](https://github.com/Tejasva-Maurya/mall-customer-segmentation)
+- [Debunking the Myth of Early Death in Left-Handers](https://github.com/Tejasva-Maurya/left-handers-myth)
+- [Text-to-Speech and Speech-to-Text Applications](https://github.com/Tejasva-Maurya/text-to-speech)
+- [Interactive Chatbot with IBM Watson](https://github.com/Tejasva-Maurya/chatbot-ibm-watson)
+- [Google APIs Integration Projects](https://github.com/Tejasva-Maurya/google-apis-integration)
