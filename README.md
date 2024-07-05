@@ -43,8 +43,8 @@ Aspiring Data Scientist from India.
 [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejasva-Maurya)
 
 ## 🖥️ Workspace Setup
-- ![i5-8300H](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-- ![GTX 1050 Ti](https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- ![i5-8300H](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+- ![GTX 1050 Ti](https://img.shields.io/badge/NVIDIA-GTX_1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 - ![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🐱‍💻 Projects
