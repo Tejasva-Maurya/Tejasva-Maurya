@@ -20,6 +20,11 @@ Aspiring Data Scientist from India.
 - **Cloud**: Cloudant, IBM Cloud Services
 - **Dev Tools**: Flask, Design Thinking, JIRA
 
+## 📊 GitHub Stats
+![Tejasva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejasva-Maurya&show_icons=true&theme=radical)
+![Tejasva's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejasva-Maurya&theme=radical)
+![Tejasva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejasva-Maurya&layout=compact&theme=radical)
+
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasva-maurya)
 [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejasva-Maurya)
