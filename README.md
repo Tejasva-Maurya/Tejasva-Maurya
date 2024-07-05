@@ -48,19 +48,19 @@ Aspiring Data Scientist from India.
 - ![Windows 10](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🐱‍💻 Projects
-- [Virtual Desktop Assistant](https://github.com/Tejasva-Maurya/virtual-desktop-assistant):-
+- [Virtual Desktop Assistant](https://github.com/Tejasva-Maurya/Virtual-Assistant-using-Python):-
   - Developed a sophisticated AI virtual assistant using Python.
   - Key Libraries: Speech Recognition, Text-to-Speech (pyttsx3), Datetime, Wikipedia, Webbrowser, OS.
   - Features: Searching Wikipedia, browsing the web, opening applications, playing music and movies, checking the time, and playing games like Snake, Water, and Gun.
-- [Prediction of Graduate Admission](https://github.com/Tejasva-Maurya/graduate-admission-prediction) :-
+- [Prediction of Graduate Admission](https://github.com/Tejasva-Maurya/Data-Analysis/tree/main/Prediction%20of%20Graduate%20Admission) :-
   - Developed a machine learning model to predict graduate admissions for Indian students.
   - Analyzed GRE scores, TOEFL scores, university rankings, SOP quality, and LOR strength.
   - Goal: Assist students in estimating their chances of admission to prestigious universities.
-- [Mall Customer Segmentation](https://github.com/Tejasva-Maurya/mall-customer-segmentation) :-
+- [Mall Customer Segmentation](https://github.com/Tejasva-Maurya/Data-Analysis/tree/main/Mall%20Customer%20Segmentation) :-
   - Applied K-Means clustering to segment mall customers based on shopping data.
   - Targeted marketing strategies and improved customer service.
   - Explored customer behaviors and patterns for actionable insights.
-- [Debunking the Myth of Early Death in Left-Handers](https://github.com/Tejasva-Maurya/left-handers-myth) :-
+- [Debunking the Myth of Early Death in Left-Handers](https://github.com/Tejasva-Maurya/Debunking-the-Myth-of-Early-Death-in-Left-Handers) :-
   - Analyzed data to investigate the myth of early death in left-handers.
   - Skills Gained: Proficiency in Python, pandas, Bayesian statistics, and data visualization.
   - Professional Growth: Enhanced understanding of data manipulation and statistical methodologies.
